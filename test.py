@@ -1,7 +1,7 @@
 print("Because i can....! And much more!")
 
 def addition(a: float, b: float) -> float:
-    """This function is used two add to floating point numbers.
+    """This function is used to add two floating point numbers.
 
     Args:
         a (float): parameter named a of type float for the function
