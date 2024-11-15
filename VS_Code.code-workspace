@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "c",
+			"stdio.h": "c"
+		}
+	}
+}
